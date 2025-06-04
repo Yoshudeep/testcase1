@@ -4,9 +4,3 @@ pydub
 streamlit-webrtc
 twilio~=9.4.3
 matplotlib
-tensorflow
-numpy
-mediapipe
-av
-scipy
-gdown
